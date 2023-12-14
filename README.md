@@ -8,4 +8,5 @@
 - ее номер
 - ссылка на статью-родителя
 - две ссылки на статей-потомков. При этом в левой ссылке находятся статьи с меньшим номером, а в правом - с большим.
-![image](https://github.com/Bukhanastyuk/Case_lab_SAP_BI/assets/118304772/f58c3c31-8996-4b31-bc97-5a4eb2ffa1e1)
+![image](https://github.com/Bukhanastyuk/Case_lab_SAP_BI/blob/main/Рисунок1.png)
+
